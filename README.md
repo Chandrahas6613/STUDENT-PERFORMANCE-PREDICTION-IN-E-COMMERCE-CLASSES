@@ -2,6 +2,8 @@
 
 _It is a machine learning predictive model, to forecast student performance in online courses by analyzing engagement metrics, assessments, and demographic data. Created a web application for users to interact with the model and view insights._
 
+![image](https://github.com/user-attachments/assets/0061e4d7-f33c-4f73-a9a8-690b94c3233c)
+
 
 ![S1](https://github.com/user-attachments/assets/5647e03a-fe3c-4ed9-bffe-acdf9efcde61)
 
