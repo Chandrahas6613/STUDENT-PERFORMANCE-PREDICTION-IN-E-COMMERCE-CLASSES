@@ -34,21 +34,21 @@ _The successful implementation of a predictive model for student performance in 
 > 
 > _The methodology followed in this research is MAACHINE LEARNING LIFECYCLE.This research is implemented through various stages that are explained below:_
 >
-> - **_Data Gathering:** Gather various data sources including student demographics, course materials, and assessment records._
+> - _**Data Gathering:** Gather various data sources including student demographics, course materials, and assessment records._
 >   
-> - **_Data Preparation:** Clean the data by removing duplicates and handling missing values.Organize the data into a format suitable for analysis._
+> - _**Data Preparation:** Clean the data by removing duplicates and handling missing values.Organize the data into a format suitable for analysis._
 >   
-> - **_Data Wrangling:** Explore the data through statistical analysis and visualization. Identify any anomalies or patterns that may influence student performance._
+> - _**Data Wrangling:** Explore the data through statistical analysis and visualization. Identify any anomalies or patterns that may influence student performance._
 >   
-> - **_Data Analysis:** Dive deeper into the data to uncover correlations between different variables. Understand how factors like engagement, demographics, and assessment scores relate to student outcomes._
+> - _**Data Analysis:** Dive deeper into the data to uncover correlations between different variables. Understand how factors like engagement, demographics, and assessment scores relate to student outcomes._
 >   
-> - **_Model Training:** Select appropriate machine learning algorithms such as regression or classification models. Train the models using the prepared data, adjusting parameters to  optimize performance._
+> - _**Model Training:** Select appropriate machine learning algorithms such as regression or classification models. Train the models using the prepared data, adjusting parameters to  optimize performance._
 >   
-> - **_Model Testing:** Evaluate the trained models using separate test datasets to assess their accuracy and generalization ability. Fine-tune the models as needed to improve performance._
+> - _**Model Testing:** Evaluate the trained models using separate test datasets to assess their accuracy and generalization ability. Fine-tune the models as needed to improve performance._
 >   
-> - **_Model Deployment:** Deploy the trained models into production environments or integrate them into the online learning platform. Monitor model performance and update as necessary based on new data or changing changing circumstances._
+> - _**Model Deployment:** Deploy the trained models into production environments or integrate them into the online learning platform. Monitor model performance and update as necessary based on new data or changing changing circumstances._
 
-**-These steps form a comprehensive framework for leveraging machine learning to predict student_**
+_**These steps form a comprehensive framework for leveraging machine learning to predict student**_
 performance in online classes.
 
 ![machine-learning-life-cycle](https://github.com/user-attachments/assets/2425912a-d523-40c9-b363-f6591e0e2335)
