@@ -2,6 +2,9 @@
 
 _It is a machine learning predictive model, to forecast student performance in online courses by analyzing engagement metrics, assessments, and demographic data. Created a web application for users to interact with the model and view insights._
 
+
+![S1](https://github.com/user-attachments/assets/5647e03a-fe3c-4ed9-bffe-acdf9efcde61)
+
 _The successful implementation of a predictive model for student performance in online courses has significant implications for both educators and students. Educators can proactively address issues that hinder student success, thereby improving overall course effectiveness. For students, early intervention ensures a better learning experience and increased chances of academic success in online courses. This research focuses on students enrolled in online courses within a specified educational  institution or platform. The study aims to analyze a diverse set of variables including total classes and attended classes and assessment grades._
 
 ![O1 (1)](https://github.com/user-attachments/assets/48a0b4f2-6f75-44c3-8fb8-1e557a250fca)
@@ -10,30 +13,45 @@ _The successful implementation of a predictive model for student performance in 
 
 
 > [!TIP]
+> 
 > **SOFTWARE REQUIREMENTS:**
-- Operating System: Windows 10 & Above
-- Coding Language: Python
-- Front-End: HTML, CSS, JavaScript
-- Back-End: Python (Django Framework)
-- Framework: Django
-- Database: MySQL (WAMP Server)
+>
+> - Operating System: Windows 10 & Above.
+> - 
+> - Coding Language: Python.
+> - 
+> - Front-End: HTML, CSS, JavaScript.
+> - 
+> - Back-End: Python (Django Framework).
+> - 
+> - Framework: Django.
+> - 
+> - Database: MySQL (WAMP Server).
 
 > [!IMPORTANT]
+> 
 > **METHODOLOGY:**
+> 
 > _The methodology followed in this research is MAACHINE LEARNING LIFECYCLE.This research is implemented through various stages that are explained below:_
 >
 > - **_Data Gathering:** Gather various data sources including student demographics, course materials, and assessment records._
+>   
 > - **_Data Preparation:** Clean the data by removing duplicates and handling missing values.Organize the data into a format suitable for analysis._
-> - **_Data Wrangling: Explore the data through statistical analysis and visualization. Identify any anomalies or patterns that may influence student performance._
+>   
+> - **_Data Wrangling:** Explore the data through statistical analysis and visualization. Identify any anomalies or patterns that may influence student performance._
+>   
 > - **_Data Analysis:** Dive deeper into the data to uncover correlations between different variables. Understand how factors like engagement, demographics, and assessment scores relate to student outcomes._
+>   
 > - **_Model Training:** Select appropriate machine learning algorithms such as regression or classification models. Train the models using the prepared data, adjusting parameters to  optimize performance._
+>   
 > - **_Model Testing:** Evaluate the trained models using separate test datasets to assess their accuracy and generalization ability. Fine-tune the models as needed to improve performance._
+>   
 > - **_Model Deployment:** Deploy the trained models into production environments or integrate them into the online learning platform. Monitor model performance and update as necessary based on new data or changing changing circumstances._
 
 **-These steps form a comprehensive framework for leveraging machine learning to predict student_**
 performance in online classes.
->
-> ![machine-learning-life-cycle](https://github.com/user-attachments/assets/2425912a-d523-40c9-b363-f6591e0e2335)
+
+![machine-learning-life-cycle](https://github.com/user-attachments/assets/2425912a-d523-40c9-b363-f6591e0e2335)
 
 
 > [!NOTE]
